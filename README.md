@@ -1,5 +1,42 @@
-![Typing IMG](https://github.com/user-attachments/assets/e67fcf78-efc7-48af-af48-26de2229f2f6)
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=8E4CB6&background=5D389000&vCenter=true&width=550&lines=Computer+since+student" alt="Typing SVG" /></a>
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-* I'm currently learning Python, JavaScript
-* How to reach me rodionmarochkin32@gmail.com or https://web.telegram.org/a/
+<div align="center">
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHltaHRycTBxcHkyYnMxZ3E1OGc2N2djdTg0N2RqMWdjOWpkNDRsZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Nx0rz3jtxtEre/giphy.gif" width="1250" height="400" />
+</div>
+
+
+**Backend Developer** | Ex-Industrial Automation Engineer  
+
+> Earlier I wrote software for controllers, now I write in Python.
+
+## Contacts 
+
+<img src="https://thesvg.org/icons/telegram/default.svg" width="22" /> [Telegram](https://t.me/mrchknr)
+<img src="https://thesvg.org/icons/gmail/default.svg" width="23"/> [Email](rodionmarochkin32@gmail.com)
+
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,django,js,html,css" />
+</p>
+
+### Databases & Caching
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,mysql,redis" />
+</p>
+
+### Tools & DevOps
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,githubactions,postman,git,powershe;;" />
+</p>
+
+### Other
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" />
+</p>
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDdwN3hyZTV2bjV3dXYxN2RmenlvM3VmaTUzdzExcGJqbHE2dHl5aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VTtANKl0beDFQRLDTh/giphy.gif" width="250" height="400" />
+</div>
