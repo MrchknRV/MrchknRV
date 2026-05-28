@@ -3,7 +3,7 @@
 </div>
 
 
-### **Backend Developer** | Ex-Industrial Automation Engineer  
+### **Backend Developer** | Ex-Industrial Automation Technician  
 
 >#### Earlier I wrote software for controllers, now I write in Python.
 
