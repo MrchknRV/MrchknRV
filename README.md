@@ -3,9 +3,9 @@
 </div>
 
 
-**Backend Developer** | Ex-Industrial Automation Engineer  
+### **Backend Developer** | Ex-Industrial Automation Engineer  
 
-> Earlier I wrote software for controllers, now I write in Python.
+>#### Earlier I wrote software for controllers, now I write in Python.
 
 ## Contacts 
 
